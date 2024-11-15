@@ -1,0 +1,3 @@
+
+
+select * FROM TESLA.PAGO;
